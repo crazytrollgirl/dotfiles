@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = amelialimyh@gmail.com
+	name = Amelia Lim
